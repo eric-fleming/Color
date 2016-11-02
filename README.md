@@ -1,5 +1,5 @@
 # Color
-This program is a library of functions that give us useful information about the colors codes on the computer. **rgb** is an array that holds the the color values, red, green, and blue to mix together to make any color. Red is the first item, green in the middle and blue last. To complete this assignment you must make 5 functions in this object library. If you finish early I can invent other challenges. Website using these tools [link]()
+This program is a library of functions that give us useful information about the colors codes on the computer. **rgb** is an array that holds the the color values, red, green, and blue to mix together to make any color. Red is the first item, green in the middle and blue last. To complete this assignment you must make 5 functions in this object library. If you finish early I can invent other challenges. [Website using these tools](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 ### Beginning Setup
 
